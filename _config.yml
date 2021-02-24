@@ -5,7 +5,7 @@ title: Mario Soriano Jr.
 description: >- # this means to ignore newlines until "baseurl:"
   I am a PhD student in Environmental Hydrology.
 baseurl: "/about" # the subpath of the site
-url: "https://mariosorianojr.github.io" # the base hostname & protocol for the site
+url: ""https://eliottvincent.github.io" # the base hostname & protocol for the site
 og_image: /visuals/mario.jpg
 #google_analytics: "UA-121636368-3"
 
