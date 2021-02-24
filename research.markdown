@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 I utilize hydrological modeling, geospatial analysis, machine learning, and field data collection in my research to answer questions about water quality and quantity. My doctoral dissertation focuses on developing a quantitative framework for evaluating groundwater contamination risks from unconventional oil and gas development in the Appalachian Basin.
-<br /><br />
+<br /><br /><br />
 <p align="center">
   <img src="uogd.png" alt="uogd" />
   <br /><br /><a href="https://medicine.yale.edu/water/" title="water">WATer & Energy Resources (WATER) Study</a>
