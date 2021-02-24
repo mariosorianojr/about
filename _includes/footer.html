@@ -1,54 +1,53 @@
 <footer class="site-footer">
   <div class="wrapper">
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-1 social-links">
         <h4>CONTACT</h4>
 
-        <div class="social-links">
-          {% for contact in site.footer.contact %}
-            <div class="social-link contact-links">
+        {% for contact in site.footer.contact %}
 
-              {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
-              <img
-                src="{{ contact_icon_path }}"
-                alt="{{ contact.name | downcase }}"
-              />
-              <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
-                {% if contact.value and contact.value != "" and contact.value != nil %}
-                  {{ contact.value }}
-                {% else %}
-                  {{ contact.name }}
-                {% endif %}
-              </a>
-            </div>
-
-          {% endfor %}
-        </div>
+          {% assign contact_icon_path = "/assets/img/icons/" | append: contact.name | downcase | append: ".png" | absolute_url %}
+          <img
+            src="{{ contact_icon_path }}"
+            alt="{{ contact.name | downcase }}"
+          />
+          <a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">
+            {% if contact.value and contact.value != "" and contact.value != nil %}
+              {{ contact.value }}
+            {% else %}
+              {{ contact.name }}
+            {% endif %}
+          </a>
+          <br />
+		  <h4>Environmental Science Center<br/>21 Sachem Street<br/>New Haven, CT 06511</h4>
+        {% endfor %}
       </div>
 
-      <div class="footer-col footer-col-2">
-        <h4>FOLLOW</h4>
+      <div class="footer-col footer-col-2 social-links">
+        <h4>  </h4>
 
-        <div class="social-links follow-links">
-          {% for follow in site.footer.follow %}
-            <div class="social-link">
+        {% for follow in site.footer.follow %}
+          <span class="wrap-link">
 
-              {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
-              <img
-                src="{{ follow_icon_path }}"
-                alt="{{ follow.name | downcase }}"
-              />
-              <a href="{{ follow.link }}">
-                {% if follow.value and follow.value != "" and follow.value != nil %}
-                  {{ follow.value }}
-                {% else %}
-                  {{ follow.name }}
-                {% endif %}
-              </a>
-            </div>
+            {% assign follow_icon_path = "/assets/img/icons/" | append: follow.name | downcase | append: ".png" | absolute_url %}
+            <img
+              src="{{ follow_icon_path }}"
+              alt="{{ follow.name | downcase }}"
+            />
+            <a href="{{ follow.link }}">
+              {% if follow.value and follow.value != "" and follow.value != nil %}
+                {{ follow.value }}
+              {% else %}
+                {{ follow.name }}
+              {% endif %}
+            </a>
+          </span>
 
-          {% endfor %}
-        </div>
+          {% assign mod = forloop.index | modulo: 2 %} {% if mod == 0 %}
+            <br />
+          {% endif %}
+
+        {% endfor %}
       </div>
 
       {% if site.footer.show_powered_by == true %}
