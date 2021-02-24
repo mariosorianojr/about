@@ -1,14 +1,13 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /visuals/mario.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome to my site!
 </p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+  I am a PhD candidate in Environmental Hydrology at the Saiers lab in the [Yale School of the Environment](https://environment.yale.edu). I study the relationships between human systems and the movement of water. In particular, I am interested in questions related to how human activities alter hydrologic fluxes, and vice versa, how water itself shapes human adaptation. Ultimately, I would like to probe whether such interactions lead to pathways towards sustainability.
+  <br/><br/>
+  I enjoy photography, reading, and learning languages during my free time.
