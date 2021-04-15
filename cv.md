@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<a href="mariosorianojr.github.io/about/Soriano_CV_042021.pdf" target="_blank">CV.</a>
+<a href="Soriano_CV_042021.pdf" target="_blank">CV.</a>
