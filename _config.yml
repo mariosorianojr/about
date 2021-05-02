@@ -15,7 +15,7 @@ header:
       slug: /
     - name: Research
     - name: Teaching
-    - name: CV
+    - name: Publications
 
 footer:
   show_powered_by: true
