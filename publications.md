@@ -25,7 +25,7 @@ Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale
 
 ### Other publications
 Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, Y., and Dulawan, L. (2016) Developing ecosystem-based adaptation strategies for enhancing of rice terrace farming systems against climate change. <i>Project Report,</i> Asia-Pacific Network for Global Change Research, Kobe, Japan. <a href="https://www.apn-gcr.org/publication/project-final-report-arcp2013-03cmy-herath/" title="apn">link</a>
-<br /><br />Soriano, M.A. (2016) Editorial: Closing the gaps in the science-policy interface. <i>United Nations University Peace & Progress,</i> 3, 1-2. <a href="https://collections.unu.edu/view/UNU:3337" title="upp">link</a>
+<br /><br />Soriano, M.A. (2016) Editorial: Closing the gaps in the science-policy interface. <i>United Nations University Peace & Progress,</i> 3, 1-2. <a href="https://postgraduate.ias.unu.edu/upp/journal-issues/" title="upp">link</a>
 <br /><br />Herath, S., Soriano, M.A., and Diwa, J. (2015) Bias-corrected daily precipitation estimates in the Ifugao Rice Terraces under climate change scenarios. <i>Rice Terrace Farming Systems Working Paper No. 3,</i> United Nations University, Tokyo, Japan. <a href="https://collections.unu.edu/view/UNU:3337" title="unu2">link</a>
 <br /><br />Herath, S., Soriano, M.A., Diwa, J., and Bucton, B. (2015) Surface and groundwater flow response to climatic change in the Ifugao Rice Terraces. <i>Rice Terrace Farming Systems Working Paper No. 6,</i> United Nations University, Tokyo, Japan. <a href="http://collections.unu.edu/view/UNU:3338" title="unu1">link</a>
 <br /><br />Soriano, M.A. (2013) Sustainable agriculture in the midst of climate change. <i>Engineering Times,</i> 3, 3. (print only). <a href="http://www.amhphil.com/publications/" title="amh">cover</a>
@@ -36,4 +36,4 @@ I have reviewed manuscripts for *Environmental Science: Processes & Impacts, Cli
 <br /><br />
 
 ### Service - Editorships
-I served as Editor-in-chief for *United Nations University Peace & Progress* graduate student journal (2015-2016) and *Engineering Times* AMH Philippines, Inc.'s company newsletter (2013). 
+I served as Editor-in-chief for *Peace & Progress,* United Nations University's graduate student journal (2015-2016) and *Engineering Times,* AMH Philippines, Inc.'s company newsletter (2013). 
