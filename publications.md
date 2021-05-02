@@ -9,7 +9,7 @@ Soriano, M.A., Siegel, H.G., Gutchess, K.M., Clark, C.J., Li, Y., Xiong, B., Pla
 <br /><br />Soriano, M.A. & Herath, S. (2020). Climate change and traditional upland paddy farming: a Philippine case study. <i>Paddy and Water Environment,</i> 18(2), 317-330. <a href="https://doi.org/10.1007/s10333-019-00784-5" title="pawe">doi: 10.1007/s10333-019-00784-5</a>
 <br /><br />Soriano, M.A. & Herath, S. (2018). Quantifying the role of traditional rice terraces in regulating water resources: implications for management and conservation efforts. <i>Agroecology and Sustainable Food Systems,</i> 42(8), 885-910. <a href="https://doi.org/10.1080/21683565.2018.1437497" title="asfs">doi: 10.1080/21683565.2018.1437497</a>
 <br /><br />Soriano, M.A., Diwa, J. & Herath, S. (2017). Local perceptions of climate change and adaptation needs in the Ifugao Rice Terraces (Northern Philippines). <i>Journal of Mountain Science,</i> 14, 1455–1472. <a href="https://doi.org/10.1007/s11629-016-4250-6" title="jms">doi: 10.1007/s11629-016-4250-6</a>
-<br /><br />Soriano, M.A. & Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 3(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
+<br /><br />Soriano, M.A. & Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
 <br /><br />
 
 ### Selected conference abstracts

@@ -27,7 +27,7 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 
 * McDougal-Poorvu Writing Fellow, 2019-present
 * Workshops - *Scientific Research and Writing Series, From Paper to Publication Series, Writing a Prospectus in the Sciences, Writing a Review Article in the Sciences*
-* Individual writing consultations with graduate students
+* Individual writing consultations with graduate students and postdoctoral scholars
 <br/><br/>
 
 ### Yale Center for Language Study
