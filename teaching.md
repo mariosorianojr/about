@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, online courses. I am also actively involved with extracurricular teaching, mainly through writing workshops and language partnerships.
+Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, online courses. I am also actively involved with extracurricular teaching, mainly through writing workshops and language partnerships. I aspire to model excellence and inclusivity in my teaching practice inside and outside the classroom, and it is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for solving today's complex challenges.
 <br/><br/>
 
 ### Yale Teaching Fellows Program
@@ -26,7 +26,7 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 ### Graduate Writing Lab at the Poorvu Center for Teaching and Learning
 
 * McDougal-Poorvu Writing Fellow, 2019-present
-* Workshops - *Scientific Research and Writing Series, From Paper to Publication Series, Writing a Prospectus in the Sciences, Writing a Review Article in the Sciences*
+* Workshops taught - *Scientific Research and Writing Series, From Paper to Publication Series, Writing a Prospectus in the Sciences, Writing a Review Article in the Sciences*
 * Individual writing consultations with graduate students and postdoctoral scholars
 <br/><br/>
 
