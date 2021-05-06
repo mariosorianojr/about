@@ -12,7 +12,7 @@ Soriano, M.A., Siegel, H.G., Gutchess, K.M., Clark, C.J., Li, Y., Xiong, B., Pla
 <br /><br />Soriano, M.A. & Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
 <br /><br />
 
-### Selected conference abstracts
+### Selected presentation abstracts
 Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale gas development on groundwater quality using hybrid machine learning approaches. 37th Annual Yale School of the Environment Research Day. 16 April 2021, New Haven, CT. (online).
 <br /><br />Soriano, M.A. and Siegel, H.G. (2020). Evaluating potential impacts of unconventional oil and gas development on groundwater. YSE Confluence Research Seminar. 19 November 2020, New Haven, CT. (online).
 <br /><br />Soriano, M.A., Gutchess, K.M., Siegel, H.G., Clark, C.J., Li, Y., Xiong, B., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2019). Capture probability and well vulnerability to contamination: A framework for evaluating potential impacts of unconventional oil & gas development on groundwater resources. (H51L-1643). 2019 American Geophysical Union Fall Meeting. 9-13 December 2019, San Francisco, CA.
