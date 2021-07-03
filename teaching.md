@@ -23,6 +23,13 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 <br/>with Prof. Mitchell Smooke - Spring 2021
 <br/><br/>
 
+### Course Planning & Development
+
+* At the School of Engineering & Applied Science (undergraduate courses)
+: - *You, Your Planet, and a Sustainable Future* (ENAS 123)
+<br/>with Prof. Aaron Dollar - Summer 2021
+<br/><br/>
+
 ### Graduate Writing Lab at the Poorvu Center for Teaching and Learning
 
 * McDougal-Poorvu Writing Fellow, 2019-present
