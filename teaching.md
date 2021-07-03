@@ -25,9 +25,8 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 
 ### Course Planning & Development
 
-* At the School of Engineering & Applied Science
-: - *You, Your Planet, and a Sustainable Future* (ENAS 123)
-<br/>with Prof. Aaron Dollar - Summer 2021
+* *You, Your Planet, and a Sustainable Future* (ENAS 123)
+: - with Prof. Aaron Dollar
 <br/> - new undergraduate course to be offered Fall 2021
 <br/><br/>
 
