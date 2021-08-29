@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Peer-reviewed journal articles
-Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (accepted.) Assessment of groundwater well vulnerability to contamination through physics-informed machine learning. <i>Environmental Research Letters.</i> <a href="https://doi.org/10.1088/1748-9326/ac10e0" title="erl">doi: 10.1088/1748-9326/ac10e0</a>
+Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Assessment of groundwater well vulnerability to contamination through physics-informed machine learning. <i>Environmental Research Letters.</i> 16(8), 084013. <a href="https://doi.org/10.1088/1748-9326/ac10e0" title="erl">doi: 10.1088/1748-9326/ac10e0</a>
 <br /><br />Soriano, M.A., Siegel, H.G., Gutchess, K.M., Clark, C.J., Li, Y., Xiong, B., Plata, D.L., Deziel, N.C. & Saiers, J.E. (2020). Evaluating domestic well vulnerability to contamination from unconventional oil and gas development sites. <i>Water Resources Research,</i> 56(10), e2020WR028005. <a href="https://doi.org/10.1029/2020WR028005" title="wrr">doi: 10.1029/2020WR028005</a>
 <br /><br />Soriano, M.A. & Herath, S. (2020). Climate change and traditional upland paddy farming: a Philippine case study. <i>Paddy and Water Environment,</i> 18(2), 317-330. <a href="https://doi.org/10.1007/s10333-019-00784-5" title="pawe">doi: 10.1007/s10333-019-00784-5</a>
 <br /><br />Soriano, M.A. & Herath, S. (2018). Quantifying the role of traditional rice terraces in regulating water resources: implications for management and conservation efforts. <i>Agroecology and Sustainable Food Systems,</i> 42(8), 885-910. <a href="https://doi.org/10.1080/21683565.2018.1437497" title="asfs">doi: 10.1080/21683565.2018.1437497</a>
@@ -33,7 +33,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Environmental Science: Processes & Impacts, Climatic Change,* and *Regional Environmental Change.* I provide peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Environmental Science: Processes & Impacts, Climatic Change,* *Regional Environmental Change* and *Resources, Conservation & Recycling.* I provide peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships

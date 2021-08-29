@@ -27,7 +27,7 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 
 * *You, Your Planet, and a Sustainable Future* (ENAS 123)
 : - with Prof. Aaron Dollar
-<br/> - new undergraduate course to be offered Fall 2021
+<br/> - new undergraduate course to be offered Fall 2022
 <br/><br/>
 
 ### Graduate Writing Lab at the Poorvu Center for Teaching and Learning
