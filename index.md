@@ -10,6 +10,6 @@ profile_picture:
 </p>
   I am a PhD candidate in Environmental Science (Hydrology & Water Resources Management) at the Saiers lab in the [Yale School of the Environment](https://environment.yale.edu). I study the relationships between human systems and the movement of water. In particular, I am interested in questions related to how human activities alter hydrologic fluxes, and vice versa, how water itself shapes human adaptation. Ultimately, I would like to probe whether such interactions lead to pathways towards sustainability.
   <br/><br/>
-  You can learn more about me on my <a href="https://raw.githubusercontent.com/mariosorianojr/about/master/cv/Soriano_CV_07032021.pdf" target="_blank">Curriculum Vitae (pdf)</a>.
+  You can learn more about me on my <a href="https://github.com/mariosorianojr/about/blob/a3cfee350064a4bb64399ccd0b8e4dd17fd26061/cv/Soriano_CV_09012021.pdf" target="_blank">Curriculum Vitae (pdf)</a>.
   <br/><br/>
   I enjoy photography, reading, and learning languages during my free time.
