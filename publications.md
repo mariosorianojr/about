@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 ### Peer-reviewed journal articles
-Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Assessment of groundwater well vulnerability to contamination through physics-informed machine learning. <i>Environmental Research Letters,</i> 16(8), 084013. <a href="https://doi.org/10.1088/1748-9326/ac10e0" title="erl">doi: 10.1088/1748-9326/ac10e0</a>
+Li, Y., Thelemaque, N.A., Siegel, H.G., Clark, C.J., Ryan, E., Brenneis, R.J., Gutchess, K.M., Soriano, M.A., Xiong, B., Deziel, N.C., Saiers, J.E., and Plata, D.L. (2021, accepted). Groundwater methane in northeastern Pennsylvania attributable to thermogenic sources and hydrogeomorphologic migration pathways. <i>Environmental Science & Technology,</i> <a href="https://doi.org/10.1021/acs.est.1c05272" title="est">doi: 10.1021/acs.est.1c05272</a>
+<br /><br />Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Assessment of groundwater well vulnerability to contamination through physics-informed machine learning. <i>Environmental Research Letters,</i> 16(8), 084013. <a href="https://doi.org/10.1088/1748-9326/ac10e0" title="erl">doi: 10.1088/1748-9326/ac10e0</a>
 <br /><br />Soriano, M.A., Siegel, H.G., Gutchess, K.M., Clark, C.J., Li, Y., Xiong, B., Plata, D.L., Deziel, N.C. & Saiers, J.E. (2020). Evaluating domestic well vulnerability to contamination from unconventional oil and gas development sites. <i>Water Resources Research,</i> 56(10), e2020WR028005. <a href="https://doi.org/10.1029/2020WR028005" title="wrr">doi: 10.1029/2020WR028005</a>
 <br /><br />Soriano, M.A. & Herath, S. (2020). Climate change and traditional upland paddy farming: a Philippine case study. <i>Paddy and Water Environment,</i> 18(2), 317-330. <a href="https://doi.org/10.1007/s10333-019-00784-5" title="pawe">doi: 10.1007/s10333-019-00784-5</a>
 <br /><br />Soriano, M.A. & Herath, S. (2018). Quantifying the role of traditional rice terraces in regulating water resources: implications for management and conservation efforts. <i>Agroecology and Sustainable Food Systems,</i> 42(8), 885-910. <a href="https://doi.org/10.1080/21683565.2018.1437497" title="asfs">doi: 10.1080/21683565.2018.1437497</a>
@@ -14,7 +15,8 @@ Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., C
 <br /><br />
 
 ### Selected presentation abstracts
-Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale gas development on groundwater quality using hybrid machine learning approaches. 37th Annual Yale School of the Environment Research Day. 16 April 2021, New Haven, CT. (online).
+Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Metamodeling of groundwater well vulnerability to contamination for elucidating potential impacts of shale gas development on water quality. (71-3). The Geological Society of America Connects 2021. 10-13 October 2021, Portland, OR.
+<br /><br />Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale gas development on groundwater quality using hybrid machine learning approaches. 37th Annual Yale School of the Environment Research Day. 16 April 2021, New Haven, CT. (online).
 <br /><br />Soriano, M.A. and Siegel, H.G. (2020). Evaluating potential impacts of unconventional oil and gas development on groundwater. YSE Confluence Research Seminar. 19 November 2020, New Haven, CT. (online).
 <br /><br />Soriano, M.A., Gutchess, K.M., Siegel, H.G., Clark, C.J., Li, Y., Xiong, B., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2019). Capture probability and well vulnerability to contamination: A framework for evaluating potential impacts of unconventional oil & gas development on groundwater resources. (H51L-1643). 2019 American Geophysical Union Fall Meeting. 9-13 December 2019, San Francisco, CA.
 <br /><br />Soriano, M.A., Barth-Naftilan, E., Gutchess, K.M., Deziel, N.C., and Saiers, J.E. (2018). Modeling groundwater vulnerability to contamination from unconventional oil and gas development: Uncertainty analysis using linear-based methods. (H43D-2424). 2018 American Geophysical Union Fall Meeting. 10-14 December 2018, Washington, DC.
@@ -33,7 +35,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Environmental Science: Processes & Impacts, Climatic Change,* *Regional Environmental Change* and *Resources, Conservation & Recycling.* I provide peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change* and *Resources, Conservation & Recycling.* I provide peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
