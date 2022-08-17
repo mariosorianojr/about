@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 
 ### Peer-reviewed journal articles
-Xiong, B., Soriano, M.A., Gutchess, K.M., Hoffman, N., Clark, C.J., Siegel, H.G., De Vera, G.A., Li, Y., Brenneis, R.J., Cox, A.J., Ryan, E.C., Sumner, A.J., Deziel, N.C., Saiers, J.E. and Plata, D.L. (2022). Groundwaters in northeastern Pennsylvania near intense hydraulic fracturing activities exhibit few organic chemical impacts. <i>Environmental Science: Processes & Impacts.</i> 24, 252-64. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/em/d1em00124h" title="espi">doi: 10.1039/D1EM00124H</a>
+Soriano, M.A., Deziel, N.C., and Saiers, J.E. (2022). Regional Scale Assessment of Shallow Groundwater Vulnerability to Contamination from Unconventional Hydrocarbon Extraction. <i>Environmental Science & Technology.</i> <a href="https://pubs.acs.org/doi/10.1021/acs.est.2c00470" title="est3">doi: 10.1021/acs.est.2c00470</a>
+<br /><br />Clark, C.J., Johnson, N.P., Soriano, M.A., Warren, J.L., Sorrentino, K.M., Kadan-Lottick, N.S., Saiers, J.E., Ma, X., and Deziel, N.C. (2022). Unconventional Oil and Gas Development Exposure and Risk of Childhood Acute Lymphoblastic Leukemia: A Case–Control Study in Pennsylvania, 2009–2017. Environmental Health Perspectives. <i>Environmental Health Perspectives.</i> 130(8), 087001. <a href="https://ehp.niehs.nih.gov/doi/10.1289/EHP11092" title="ehp">doi: 10.1289/EHP11092</a>
+<br /><br />Xiong, B., Soriano, M.A., Gutchess, K.M., Hoffman, N., Clark, C.J., Siegel, H.G., De Vera, G.A., Li, Y., Brenneis, R.J., Cox, A.J., Ryan, E.C., Sumner, A.J., Deziel, N.C., Saiers, J.E. and Plata, D.L. (2022). Groundwaters in northeastern Pennsylvania near intense hydraulic fracturing activities exhibit few organic chemical impacts. <i>Environmental Science: Processes & Impacts.</i> 24, 252-64. <a href="https://pubs.rsc.org/en/content/articlelanding/2022/em/d1em00124h" title="espi">doi: 10.1039/D1EM00124H</a>
 <br /><br />Clark, C.J., Xiong, B., Soriano, M.A., Gutchess, K.M., Siegel, H.G., Ryan, E., Johnson, N.P., Cassell, K., Elliott, E.G., Li, Y., Cox, A.J., Bugher, N., Glist, L., Brenneis, R.J., Sorrentino, K.M., Plano, J., Ma, X., Warren, J.L., Plata, D.L., Saiers, J.E., and Deziel, N.C. (2022). Assessing unconventional oil and gas exposure in the Appalachian Basin: Comparison of exposure surrogates and residential drinking water measurements. <i>Environmental Science & Technology,</i> 56(2), 1091-103. <a href="https://doi.org/10.1021/acs.est.1c05081" title="est2">doi: 10.1021/acs.est.1c05081</a>
 <br /><br />Li, Y., Thelemaque, N.A., Siegel, H.G., Clark, C.J., Ryan, E., Brenneis, R.J., Gutchess, K.M., Soriano, M.A., Xiong, B., Deziel, N.C., Saiers, J.E., and Plata, D.L. (2021). Groundwater methane in northeastern Pennsylvania attributable to thermogenic sources and hydrogeomorphologic migration pathways. <i>Environmental Science & Technology,</i> 55(24), 16413-422. <a href="https://doi.org/10.1021/acs.est.1c05272" title="est">doi: 10.1021/acs.est.1c05272</a>
 <br /><br />Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Assessment of groundwater well vulnerability to contamination through physics-informed machine learning. <i>Environmental Research Letters,</i> 16(8), 084013. <a href="https://doi.org/10.1088/1748-9326/ac10e0" title="erl">doi: 10.1088/1748-9326/ac10e0</a>
@@ -36,8 +38,13 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />Soriano, M.A. (2013) Sustainable agriculture in the midst of climate change. <i>Engineering Times,</i> 3, 3. AMH Phil., Inc., Quezon City, Philippines. <a href="http://www.amhphil.com/publications/the-engineering-times-newsletter/" title="amh">link</a>
 <br /><br />
 
+### Media
+08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
+<br /><br />05/24/2022 - <a href="https://environment.yale.edu/news/article/brave-persistent-and-nimble-yse-class-2022-ready-defy-odds" title="ysen">Brave, persistent, and nimble, the YSE Class of 2022 is ready to defy the odds</a>
+<br /><br />
+
 ### Service - Peer review
-I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change* and *Resources, Conservation & Recycling.* I provide peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change,* *Chemosphere,* and *Resources, Conservation & Recycling.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
