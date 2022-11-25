@@ -19,7 +19,7 @@ Siegel, H.G., Soriano, M.A., Clark, C.J., Johnson, N.P., Wulsin, H.G., Plata, D.
 <br /><br />Soriano, M.A. & Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
 <br /><br />
 
-### Selected presentation abstracts
+### Selected conference presentations
 Soriano, M.A., Warren, J.L., Deziel, N.C., and Saiers, J.E. (2022). Examining associations between sociodemographic characteristics and groundwater vulnerability to contamination from unconventional oil and gas development. (6-7). The Geological Society of America Connects 2022. 9-12 October 2022, Denver, CO. <a href="https://gsa.confex.com/gsa/2022AM/webprogram/Paper380349.html" title="gsa22">doi: 10.1130/abs/2022AM-380349</a>
 <br /><br />Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Metamodeling of groundwater well vulnerability to contamination for elucidating potential impacts of shale gas development on water quality. (71-3). The Geological Society of America Connects 2021. 10-13 October 2021, Portland, OR. <a href="https://gsa.confex.com/gsa/2021AM/webprogram/Paper369703.html" title="gsa21">doi: 10.1130/abs/2021AM-369703</a>
 <br /><br />Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale gas development on groundwater quality using hybrid machine learning approaches. 37th Annual Yale School of the Environment Research Day. 16 April 2021, New Haven, CT. (online).
@@ -41,7 +41,8 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Media
-08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
+10/17/2022 - <a href="https://open.spotify.com/show/6sS4mPEhKRsahn36OLsJez?si=8012186862dc4cdf&nd=1" title="ygwl">Expanding skillsets in hydrology- My PhD Writing Journey Ep. 3</a>
+<br /><br />08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
 <br /><br />05/24/2022 - <a href="https://environment.yale.edu/news/article/brave-persistent-and-nimble-yse-class-2022-ready-defy-odds" title="ysen">Brave, persistent, and nimble, the YSE Class of 2022 is ready to defy the odds</a>
 <br /><br />
 
