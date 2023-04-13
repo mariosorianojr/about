@@ -43,7 +43,8 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Media
-10/17/2022 - <a href="https://open.spotify.com/show/6sS4mPEhKRsahn36OLsJez?si=8012186862dc4cdf&nd=1" title="ygwl">Expanding skillsets in hydrology- My PhD Writing Journey Ep. 3</a>
+04/13/2023 - <a href="https://news.agu.org/press-release/elderly-low-income-residents-most-vulnerable-to-groundwater-pollution-from-fracking-in-appalachia/" title="agupr">Elderly, low income residents most vulnerable to groundwater pollution from fracking in Appalachia</a>
+<br /><br />10/17/2022 - <a href="https://open.spotify.com/show/6sS4mPEhKRsahn36OLsJez?si=8012186862dc4cdf&nd=1" title="ygwl">Expanding skillsets in hydrology- My PhD Writing Journey Ep. 3</a>
 <br /><br />08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
 <br /><br />05/24/2022 - <a href="https://environment.yale.edu/news/article/brave-persistent-and-nimble-yse-class-2022-ready-defy-odds" title="ysen">Brave, persistent, and nimble, the YSE Class of 2022 is ready to defy the odds</a>
 <br /><br />
