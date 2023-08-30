@@ -22,7 +22,8 @@ Soriano, M.A., Warren, J.L., Clark, C.J., Johnson, N.P., Siegel, H.G., Deziel, N
 <br /><br />
 
 ### Selected conference presentations
-Soriano, M.A., Yang, C., and Maxwell, R.M. (2022). Exploring linkages between transit time and water quality in streams across the conterminous USA. (H15U-1043). 2022 American Geophysical Union Fall Meeting. 12-16 December 2022, Chicago, IL.
+Soriano, M.A. and Maxwell, R.M. (2023). Influence of predictor aggregation on performance of machine learning metamodels for predicting transit time . (HS02-A005). 2023 Asia Oceania Geosciences Society Annual Meeting. 30 July - 4 August 2023, Singapore, SG.
+<br /><br />Soriano, M.A., Yang, C., and Maxwell, R.M. (2022). Exploring linkages between transit time and water quality in streams across the conterminous USA. (H15U-1043). 2022 American Geophysical Union Fall Meeting. 12-16 December 2022, Chicago, IL.
 <br /><br />Soriano, M.A., Warren, J.L., Deziel, N.C., and Saiers, J.E. (2022). Examining associations between sociodemographic characteristics and groundwater vulnerability to contamination from unconventional oil and gas development. (6-7). The Geological Society of America Connects 2022. 9-12 October 2022, Denver, CO. <a href="https://gsa.confex.com/gsa/2022AM/webprogram/Paper380349.html" title="gsa22">doi: 10.1130/abs/2022AM-380349</a>
 <br /><br />Soriano, M.A., Siegel, H.G., Johnson, N.P., Gutchess, K.M., Xiong, B., Li, Y., Clark, C.J., Plata, D.L., Deziel, N.C., and Saiers, J.E. (2021). Metamodeling of groundwater well vulnerability to contamination for elucidating potential impacts of shale gas development on water quality. (71-3). The Geological Society of America Connects 2021. 10-13 October 2021, Portland, OR. <a href="https://gsa.confex.com/gsa/2021AM/webprogram/Paper369703.html" title="gsa21">doi: 10.1130/abs/2021AM-369703</a>
 <br /><br />Soriano, M.A. and Saiers, J.E. (2021). Characterizing potential impacts of shale gas development on groundwater quality using hybrid machine learning approaches. 37th Annual Yale School of the Environment Research Day. 16 April 2021, New Haven, CT. (online).
@@ -51,7 +52,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change,* *Chemosphere,* *Journal of Hydrology,* *Computers & Geosciences,* and *Resources, Conservation & Recycling.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change,* *Chemosphere,* *Journal of Hydrology,* *Paddy & Water Environment,* *Computers & Geosciences,* and *Resources, Conservation & Recycling.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
