@@ -4,7 +4,14 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, online courses. I am also involved with extracurricular teaching through outreach, writing workshops, and language partnerships. I aspire to model excellence and inclusivity in my teaching practice inside and outside the classroom, and it is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for solving today's complex challenges.
+Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, remote teaching. I am also involved with extracurricular teaching through outreach, writing workshops, and language partnerships. I aspire to model excellence and inclusivity in my teaching practice inside and outside the classroom, and it is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for solving today's complex challenges.
+<br/><br/>
+
+### Princeton Environmental Fellows Program
+
+* Undergraduate course at the School of Engineering & Applied Science/ High Meadows Environmental Institute
+: - *Hydrology: Water & Climate* (CEE 306/ ENV 318)
+<br/>with Prof. Reed Maxwell - Spring 2023
 <br/><br/>
 
 ### Water and Climate Academy
@@ -30,7 +37,7 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 <br/>with Prof. Mitchell Smooke - Spring 2021
 <br/><br/>
 
-### Course Planning & Development
+### Course Planning & Development at Yale
 
 * *You, Your Planet, and a Sustainable Future* (ENAS/EVST 123)
 : - with Prof. Aaron Dollar
