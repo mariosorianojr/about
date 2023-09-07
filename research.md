@@ -7,6 +7,22 @@ permalink: /research/
 My research is grounded in hydrology and draws on theoretical frameworks and methodologies from sustainability science and applied data science. I am interested in questions that revolve around the complex interlinkages surrounding water as a natural resource, an environmental driver, and a pillar of human well-being. I employ high fidelity hydrological modeling, geospatial analysis, machine learning, and various field data collection and stakeholder engagement techniques to probe questions about water quantity and quality from a human-environment systems perspective.
 <br /><br /><br />
 <p align="center">
+  <img src="tacloban.png" alt="tacloban" />
+  <br /><br /><a href="https://allisoncarruth.com/lab/princeton-blue-lab/" title="bluelab">Communicating Lessons from Interdisciplinary Disaster Research through Environmental Storytelling</a>
+</p>
+<p align="left"> 
+As part of the Blue Lab's Climate Stories Incubator, I am leading a multimedia storytelling project to synthesize and communicate key lessons learned from a decade's worth of scholarly research and lived experiences from the 2013 Super Typhoon Haiyan (local name: Yolanda) disaster in the central Philippines. The Blue Lab is an environmental storytelling, research, and art group led by Prof. Allison Carruth. I led a team to collect oral histories from coastal communities that were devastated by Haiyan. Our team spoke to survivors of the storm, as well as local researchers, government officials, weather forecasters, and civic organizations involved in the still ongoing recovery process. Through a series of podcasts and photographic essays, the project will explore themes of human-water relations, perceptions of home, climate change and extreme weather, risk communication, and the meaning of resilience and "build back better".
+</p>
+<br /><br />
+<p align="center">
+  <img src="colorado.png" alt="colorado" />
+  <br /><br /><a href="http://maxwell.princeton.edu/" title="igwmc">Hybrid Approaches for Modeling Hydrologic Processes</a>
+</p>
+<p align="left"> 
+Hydrologic processes have traditionally been modeled using physically based approaches that utilize the numerical solution of differential equations. One challenge with such physically based modeling is that as the models expand into larger spatial scales or higher resolutions, the computational requirements can rapidly become intractable. Metamodels, or machine learning models trained to emulate the behavior of physically based models, offer a promising avenue to address this issue. Supervised by Prof. Reed Maxwell at the Integrated GroundWater Modeling Center, I am studying the complementary use of continental scale, physically based, integrated surface water and groundwater models and metamodels. I am currently examining the predictive performance and spatial transferability of metamodels in the Upper Colorado River Basin. Parallel to these computational approaches, I also collected water samples for independent validation of the models against tracer-based measurements.
+</p>
+<br /><br />
+<p align="center">
   <img src="uogd.png" alt="uogd" />
   <br /><br /><a href="https://medicine.yale.edu/lab/deziel/projects/drinking-water/appalachia/" title="water">WATer & Energy Resources (WATER) Study</a>
 </p>
