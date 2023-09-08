@@ -8,7 +8,7 @@ My research is grounded in hydrology and draws on theoretical frameworks and met
 <br /><br /><br />
 <p align="center">
   <img src="tacloban.png" alt="tacloban" />
-  <br /><br /><a href="https://allisoncarruth.com/lab/princeton-blue-lab/" title="bluelab">Communicating Lessons from Interdisciplinary Disaster Research through Environmental Storytelling</a>
+  <br /><br /><a href="https://bluelab.allisoncarruth.com/projects-page/climate-stories-incubator/" title="bluelab">Communicating Lessons from Interdisciplinary Disaster Research through Environmental Storytelling</a>
 </p>
 <p align="left"> 
 As part of the Blue Lab's Climate Stories Incubator, I am leading a multimedia storytelling project to synthesize and communicate key lessons learned from a decade's worth of scholarly research and lived experiences from the 2013 Super Typhoon Haiyan (local name: Yolanda) disaster in the central Philippines. The Blue Lab is an environmental storytelling, research, and art group led by Prof. Allison Carruth. I led a team to collect oral histories from coastal communities that were devastated by Haiyan. Our team spoke to survivors of the storm, as well as local researchers, government officials, weather forecasters, and civic organizations involved in the still ongoing recovery process. Through a series of podcasts and photographic essays, the project will explore themes of human-water relations, perceptions of home, climate change and extreme weather, risk communication, and the meaning of resilience and "build back better".
