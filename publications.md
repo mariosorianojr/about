@@ -55,7 +55,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change,* *Chemosphere,* *Journal of Hydrology,* *Paddy & Water Environment,* *Computers & Geosciences,* and *Resources, Conservation & Recycling.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
