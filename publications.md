@@ -24,7 +24,8 @@ Soriano, M.A. and Maxwell, R.M. (2023). Spatial aggregation effects on the perfo
 <br /><br />
 
 ### Selected conference presentations
-Soriano, M.A., Jaojoco, P.E., Carroll, B.L., Maxwell, R.M., and Carruth, A. (2023). Distilling Lessons from Interdisciplinary Disaster Research through Multimedia Storytelling. (SY41C-1056). 2023 American Geophysical Union Fall Meeting. 11-15 December 2023, San Francisco, CA.
+Soriano, M.A., Saiers, J.E., and Maxwell, R.M. (2024). Simulating Groundwater Vulnerability to Contamination from Unconventional Oil and Gas Development Through Physics-based and Machine Learning Approaches. (101). MODFLOW & More 2024. 2-5 June 2024, Princeton, NJ.
+<br /><br />Soriano, M.A., Jaojoco, P.E., Carroll, B.L., Maxwell, R.M., and Carruth, A. (2023). Distilling Lessons from Interdisciplinary Disaster Research through Multimedia Storytelling. (SY41C-1056). 2023 American Geophysical Union Fall Meeting. 11-15 December 2023, San Francisco, CA.
 <br /><br />Soriano, M.A. and Maxwell, R.M. (2023). Influence of predictor aggregation on performance of machine learning metamodels for predicting transit time. (HS02-A005). 2023 Asia Oceania Geosciences Society Annual Meeting. 30 July - 4 August 2023, Singapore, SG.
 <br /><br />Soriano, M.A., Yang, C., and Maxwell, R.M. (2022). Exploring linkages between transit time and water quality in streams across the conterminous USA. (H15U-1043). 2022 American Geophysical Union Fall Meeting. 12-16 December 2022, Chicago, IL.
 <br /><br />Soriano, M.A., Warren, J.L., Deziel, N.C., and Saiers, J.E. (2022). Examining associations between sociodemographic characteristics and groundwater vulnerability to contamination from unconventional oil and gas development. (6-7). The Geological Society of America Connects 2022. 9-12 October 2022, Denver, CO. <a href="https://gsa.confex.com/gsa/2022AM/webprogram/Paper380349.html" title="gsa22">doi: 10.1130/abs/2022AM-380349</a>

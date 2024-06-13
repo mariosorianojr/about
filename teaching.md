@@ -12,6 +12,8 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 * Undergraduate course at the School of Engineering & Applied Science/ High Meadows Environmental Institute
 : - *Hydrology: Water & Climate* (CEE 306/ ENV 318)
 <br/>with Prof. Reed Maxwell - Spring 2023
+: - *Freshwater Footprints & Futures* (ENV 212/ CEE 212)
+<br/> - Spring 2024
 <br/><br/>
 
 ### Water and Climate Academy
