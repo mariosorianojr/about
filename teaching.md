@@ -16,11 +16,19 @@ Through teaching, I aim to equip students with fundamental principles of scienti
 <br/> - Spring 2024
 <br/><br/>
 
+### Princeton QUEST Program in Teacher Preparation
+
+* For middle school and high school STEM teachers
+: - *Science Communication* - Summer 2024
+<br/>Theme: "Beneath the Surface: Exploring the Hydrologic Cycle, Leveraging Technologies, and Envisioning our Collective Water Future"
+<br/><br/>
+
 ### Water and Climate Academy
 
 * For public high school students
-: - *Water Pollution*
-<br/>A partnership between Princeton HMEI's Integrated GroundWater Modeling Center and The Watershed Institute - Summer 2022
+: - *Water Pollution* - Summer 2022
+: - *Science Communication* - Summer 2024
+<br/>A partnership between Princeton HMEI's Integrated GroundWater Modeling Center and The Watershed Institute
 <br/><br/>
 
 ### Yale Teaching Fellows Program
