@@ -23,8 +23,11 @@ Soriano, M.A. and Maxwell, R.M. (2023). Spatial aggregation effects on the perfo
 <br /><br />Soriano, M.A. and Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
 <br /><br />
 
-### Selected conference presentations
-Soriano, M.A., Saiers, J.E., and Maxwell, R.M. (2024). Simulating Groundwater Vulnerability to Contamination from Unconventional Oil and Gas Development Through Physics-based and Machine Learning Approaches. (101). MODFLOW & More 2024. 2-5 June 2024, Princeton, NJ.
+### Selected conference abstracts
+Soriano, M.A., Saiers, J.E., Maxwell, R.M., and Warren, J.L. (2024). A Groundwater Modeling Framework for Elucidating Drinking-Water Vulnerability to Contamination by Wastewater Spills from Oil and Gas Development. (133-2). The Geological Society of America Connects 2024. 22-25 September 2024, Anaheim, CA. <a href="https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/404781" title="gsa22">doi: 10.1130/abs/2024AM-404781</a>
+<br /><br />Collins, J., Soriano, M.A., and Carruth, A. (2024). Audio Storytelling in the Wake of Disaster. (Research and Practice Highlights). 2024 Natural Hazards Workshop. 14-17 July 2024, Broomfield, CO.
+<br /><br />Soriano, M.A., Saiers, J.E., and Maxwell, R.M. (2024). Simulating Groundwater Vulnerability to Contamination from Unconventional Oil and Gas Development Through Physics-based and Machine Learning Approaches. (101). MODFLOW & More 2024. 2-5 June 2024, Princeton, NJ.
+<br /><br />Soriano, M.A., Saiers, J.E., Maxwell, R.M., and Warren, J.L. (2024). A Groundwater Modeling Framework for Elucidating Community Exposures Across the Marcellus Region to Contamination Associated with Oil and Gas Development. (304). Health Effects Institute Annual Conference. 28-30 April 2024, Philadelphia, PA.
 <br /><br />Soriano, M.A., Jaojoco, P.E., Carroll, B.L., Maxwell, R.M., and Carruth, A. (2023). Distilling Lessons from Interdisciplinary Disaster Research through Multimedia Storytelling. (SY41C-1056). 2023 American Geophysical Union Fall Meeting. 11-15 December 2023, San Francisco, CA.
 <br /><br />Soriano, M.A. and Maxwell, R.M. (2023). Influence of predictor aggregation on performance of machine learning metamodels for predicting transit time. (HS02-A005). 2023 Asia Oceania Geosciences Society Annual Meeting. 30 July - 4 August 2023, Singapore, SG.
 <br /><br />Soriano, M.A., Yang, C., and Maxwell, R.M. (2022). Exploring linkages between transit time and water quality in streams across the conterminous USA. (H15U-1043). 2022 American Geophysical Union Fall Meeting. 12-16 December 2022, Chicago, IL.
@@ -49,7 +52,8 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Media
-04/13/2023 - <a href="https://news.agu.org/press-release/elderly-low-income-residents-most-vulnerable-to-groundwater-pollution-from-fracking-in-appalachia/" title="agupr">Elderly, low income residents most vulnerable to groundwater pollution from fracking in Appalachia</a>
+04/30/2024 - <a href="https://www.heienergy.org/media/262" title="hei24">HEI Energy: Mario Soriano Interview @ HEI Annual Conference 2024</a>
+<br /><br />04/13/2023 - <a href="https://news.agu.org/press-release/elderly-low-income-residents-most-vulnerable-to-groundwater-pollution-from-fracking-in-appalachia/" title="agupr">Elderly, low income residents most vulnerable to groundwater pollution from fracking in Appalachia</a>
 <br /><br />10/17/2022 - <a href="https://open.spotify.com/show/6sS4mPEhKRsahn36OLsJez?si=8012186862dc4cdf&nd=1" title="ygwl">Expanding skillsets in hydrology- My PhD Writing Journey Ep. 3</a>
 <br /><br />08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
 <br /><br />05/24/2022 - <a href="https://environment.yale.edu/news/article/brave-persistent-and-nimble-yse-class-2022-ready-defy-odds" title="ysen">Brave, persistent, and nimble, the YSE Class of 2022 is ready to defy the odds</a>
