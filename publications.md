@@ -25,7 +25,10 @@ Soriano, M.A., Jaojoco, P., Carroll, B., Maxwell, R.M., and Carruth, A. (2025). 
 <br /><br />
 
 ### Selected conference abstracts
-Soriano, M.A., Lin, S., Warren, J.L., Saiers, J.E., and Maxwell, R.M.(2024). Towards a Risk-triage Platform for Assessing Groundwater Contamination From Fossil Fuel Extraction. (H53V-06). 2024 American Geophysical Union Fall Meeting. 09-13 December 2024, Washington, DC.
+Soriano, M.A., Wang, Y.C., Van Velden, D., Lin, S., Baker, K., Warren, J.L, Maxwell, R.M., and Saiers, J.E. (2025). Assessment of groundwater contamination risks from shale gas development in the Northern Appalachian Basin, USA. Health Effects Institute Annual Conference. 4-6 May 2025, Austin, TX.
+<br /><br />Soriano, M.A., Wang, Y.C., Van Velden, D., Lin, S., Baker, K., Warren, J.L,  Saiers, J.E., and Maxwell, R.M. (2025). Assessment of groundwater contamination risks from shale gas development in the Northern Appalachian Basin, USA. (EGU25-13979). 2025 EGU General Assembly. 27 Apr–2 May 2025, Vienna, Austria. <a href="https://doi.org/10.5194/egusphere-egu25-13979" title="egu25hs">doi: 10.5194/egusphere-egu25-13979</a>
+<br /><br />Soriano, M.A., Maxwell, R., and Carruth, A. (2025) Audio narratives of long-term disaster recovery and climate change adaptation. (EGU25-14045). 2025 EGU General Assembly. 27 Apr–2 May 2025, Vienna, Austria. <a href="https://doi.org/10.5194/egusphere-egu25-14045" title="egu25eos">doi: 10.5194/egusphere-egu25-14045</a>
+<br /><br />Soriano, M.A., Lin, S., Warren, J.L., Saiers, J.E., and Maxwell, R.M.(2024). Towards a Risk-triage Platform for Assessing Groundwater Contamination From Fossil Fuel Extraction. (H53V-06). 2024 American Geophysical Union Fall Meeting. 09-13 December 2024, Washington, DC.
 <br /><br />Colby, E., Soriano, M.A., and Maxwell, R.M.(2024). Transferability of Machine Learning Models Across Multiple Regions for Predicting Water Transit Time. (H53F-1167). 2024 American Geophysical Union Fall Meeting. 09-13 December 2024, Washington, DC.
 <br /><br />Pinchinat, J., Gallagher, L., Soriano, M.A., and Maxwell, R.M.(2024). Science Education and Communication: Assessing Knowledge and Perspectives on Water and Climate. (ED13B-2438). 2024 American Geophysical Union Fall Meeting. 09-13 December 2024, Washington, DC.
 <br /><br />Soriano, M.A., Saiers, J.E., Maxwell, R.M., and Warren, J.L. (2024). A Groundwater Modeling Framework for Elucidating Drinking-Water Vulnerability to Contamination by Wastewater Spills from Oil and Gas Development. (133-2). The Geological Society of America Connects 2024. 22-25 September 2024, Anaheim, CA. <a href="https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/404781" title="gsa22">doi: 10.1130/abs/2024AM-404781</a>
@@ -56,7 +59,8 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Media
-04/30/2024 - <a href="https://www.heienergy.org/media/262" title="hei24">HEI Energy: Mario Soriano Interview @ HEI Annual Conference 2024</a>
+05/29/2025 - <a href="https://environment.princeton.edu/news/new-paper-examines-how-storytelling-shapes-learning-from-disasters/" title="hmei">New Paper Examines How Storytelling Shapes Learning from Disasters</a>
+<br /><br />04/30/2024 - <a href="https://www.heienergy.org/media/262" title="hei24">HEI Energy: Mario Soriano Interview @ HEI Annual Conference 2024</a>
 <br /><br />04/13/2023 - <a href="https://news.agu.org/press-release/elderly-low-income-residents-most-vulnerable-to-groundwater-pollution-from-fracking-in-appalachia/" title="agupr">Elderly, low income residents most vulnerable to groundwater pollution from fracking in Appalachia</a>
 <br /><br />10/17/2022 - <a href="https://open.spotify.com/show/6sS4mPEhKRsahn36OLsJez?si=8012186862dc4cdf&nd=1" title="ygwl">Expanding skillsets in hydrology- My PhD Writing Journey Ep. 3</a>
 <br /><br />08/17/2022 - <a href="https://news.yale.edu/2022/08/17/proximity-fracking-sites-associated-risk-childhood-cancer" title="ynews">Proximity to fracking sites associated with risk of childhood cancer</a>
@@ -64,7 +68,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Environmental Pollutants & Bioavailability,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
