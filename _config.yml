@@ -21,8 +21,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: ms8131@princeton.edu
-      link: mailto:ms8131@princeton.edu
+      value: mario.soriano@nus.edu.sg
+      link: mailto:mario.soriano@nus.edu.sg
 
 # Build settings
 markdown: kramdown
