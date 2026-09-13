@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 ### Peer-reviewed journal articles
-Soriano, M.A., Jaojoco, P., Carroll, B., Maxwell, R.M., and Carruth, A. (2025). Public discourses and personal narratives of learning from disaster. <i>npj Climate Action.</i> 4, 20. <a href="https://doi.org/10.1038/s44168-025-00227-4" title="npj">doi: 10.1038/s44168-025-00227-4</a>
+Soriano, M.A., Warren, J.L., Wang, Y.C., van Velden, D., Lin, S., Maxwell, R.M., and Saiers, J.E. (2026). Higher odds of produced-water-like chemistry in groundwater vulnerable to shale gas spills. <i>Nature Sustainability.</i>  <a href="https://doi.org/10.1038/s41893-026-01933-5" title="ns">doi: 10.1038/s41893-026-01933-5</a>
+<br /><br />Soriano, M.A., Jaojoco, P., Carroll, B., Maxwell, R.M., and Carruth, A. (2025). Public discourses and personal narratives of learning from disaster. <i>npj Climate Action.</i> 4, 20. <a href="https://doi.org/10.1038/s44168-025-00227-4" title="npj">doi: 10.1038/s44168-025-00227-4</a>
 <br /><br />Soriano, M.A. and Maxwell, R.M. (2023). Spatial aggregation effects on the performance of machine learning metamodels for predicting transit time to baseflow. <i>Environmental Research Communications.</i> 5, 115002. <a href="https://doi.org/10.1088/2515-7620/ad0744" title="erc">doi: 10.1088/2515-7620/ad0744</a>
 <br /><br />Li, Y., Siegel, H.G., Thelemaque, N.A., Bailey, K.R., Moncrieffe, P., Nguyen, T., Clark, C.J., Johnson, N.P., Soriano, M.A., Deziel, N.C., Saiers, J.E., and Plata, D.L. (2023). Conventional fossil fuel extraction, associated biogeochemical processes, and topography influence methane groundwater concentrations in Appalachia. <i>Environmental Science & Technology.</i> 57, 19702. <a href="https://doi.org/10.1021/acs.est.3c01862" title="est5">doi: 10.1021/acs.est.3c01862</a>
 <br /><br />Soriano, M.A., Warren, J.L., Clark, C.J., Johnson, N.P., Siegel, H.G., Deziel, N.C., and Saiers, J.E. (2023). Social vulnerability and groundwater vulnerability to contamination from unconventional hydrocarbon extraction in the Appalachian Basin. <i>GeoHealth.</i> 7, e2022GH000758. <a href="https://doi.org/10.1029/2022GH000758" title="geh">doi: 10.1029/2022GH000758</a>
@@ -68,7 +69,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Environmental Pollutants & Bioavailability,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Hydrological Processes,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Environmental Pollutants & Bioavailability,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
