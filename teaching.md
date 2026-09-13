@@ -7,11 +7,21 @@ permalink: /teaching/
 Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, remote teaching. I am also involved with extracurricular teaching through outreach, writing workshops, and language partnerships. I aspire to model excellence and inclusivity in my teaching practice inside and outside the classroom, and it is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for solving today's complex challenges.
 <br/><br/>
 
+### National University of Singapore
+
+* Graduate course at the Department of Geography, [MSc Climate Change & Sustainability programme](https://fass.nus.edu.sg/geog/graduate-programme-in-climate-change-and-sustainability/msc-in-climate-change-and-sustainability/)
+: - *Water, Food and Energy Insecurities* (CCS 5204)
+<br/> Semester 1 (AY2025/26, AY2026/27)
+* Undergraduate course at the Department of Geography
+: - *Advanced Hydrology & Water Resources Management* (GE 4211)
+<br/> Semester 2 (AY2025/26)
+<br/><br/>
+
 ### Princeton Environmental Fellows Program
 
 * Undergraduate course at the School of Engineering & Applied Science/ High Meadows Environmental Institute
 : - *Hydrology: Water & Climate* (CEE 306/ ENV 318)
-<br/>with Prof. Reed Maxwell - Spring 2023
+<br/>with Prof. Reed Maxwell - Spring 2023, 2025
 : - *Freshwater Footprints & Futures* (ENV 212/ CEE 212)
 <br/> - Spring 2024
 <br/><br/>
