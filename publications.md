@@ -22,7 +22,7 @@ Soriano, M.A., Warren, J.L., Wang, Y.C., van Velden, D., Lin, S., Maxwell, R.M.,
 <br /><br />Soriano, M.A. & Herath, S. (2020). Climate change and traditional upland paddy farming: a Philippine case study. <i>Paddy and Water Environment,</i> 18(2), 317-330. <a href="https://doi.org/10.1007/s10333-019-00784-5" title="pawe">doi: 10.1007/s10333-019-00784-5</a>
 <br /><br />Soriano, M.A. and Herath, S. (2018). Quantifying the role of traditional rice terraces in regulating water resources: implications for management and conservation efforts. <i>Agroecology and Sustainable Food Systems,</i> 42(8), 885-910. <a href="https://doi.org/10.1080/21683565.2018.1437497" title="asfs">doi: 10.1080/21683565.2018.1437497</a>
 <br /><br />Soriano, M.A., Diwa, J. and Herath, S. (2017). Local perceptions of climate change and adaptation needs in the Ifugao Rice Terraces (Northern Philippines). <i>Journal of Mountain Science,</i> 14, 1455–1472. <a href="https://doi.org/10.1007/s11629-016-4250-6" title="jms">doi: 10.1007/s11629-016-4250-6</a>
-<br /><br />Soriano, M.A. and Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://www.journals.upd.edu.ph/index.php/pej/article/view/3469" title="pej">link</a>
+<br /><br />Soriano, M.A. and Castro, P.P.M. (2012). Assessment of the engineering aspects of the Ifugao Rice Terraces. <i>Philippine Engineering Journal,</i> 33(1), 1-10. <a href="https://saliksik.upd.edu.ph/journal-issue/PEJ" title="pej">link</a>
 <br /><br />
 
 ### Selected conference abstracts
@@ -56,10 +56,10 @@ Soriano, M.A., Gupta, I., and Ray, S. (2026). Assessment of Energy Policies as M
 
 ### Other publications
 Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, Y., and Dulawan, L. (2016) Developing ecosystem-based adaptation strategies for enhancing of rice terrace farming systems against climate change. <i>Project Report,</i> Asia-Pacific Network for Global Change Research, Kobe, Japan. <a href="https://www.apn-gcr.org/publication/project-final-report-arcp2013-03cmy-herath/" title="apn">link</a>
-<br /><br />Soriano, M.A. (2016) Editorial: Closing the gaps in the science-policy interface. <i>United Nations University Peace & Progress,</i> 3, 1-2. <a href="https://postgraduate.ias.unu.edu/upp/journal-issues/" title="upp">link</a>
+<br /><br />Soriano, M.A. (2016) Editorial: Closing the gaps in the science-policy interface. <i>United Nations University Peace & Progress,</i> 3, 1-2. <a href="https://www.facebook.com/peaceandprogress/" title="upp">link</a>
 <br /><br />Herath, S., Soriano, M.A., and Diwa, J. (2015) Bias-corrected daily precipitation estimates in the Ifugao Rice Terraces under climate change scenarios. <i>Rice Terrace Farming Systems Working Paper No. 3,</i> United Nations University, Tokyo, Japan. <a href="https://collections.unu.edu/view/UNU:3337" title="unu2">link</a>
 <br /><br />Herath, S., Soriano, M.A., Diwa, J., and Bucton, B. (2015) Surface and groundwater flow response to climatic change in the Ifugao Rice Terraces. <i>Rice Terrace Farming Systems Working Paper No. 6,</i> United Nations University, Tokyo, Japan. <a href="http://collections.unu.edu/view/UNU:3338" title="unu1">link</a>
-<br /><br />Soriano, M.A. (2013) Sustainable agriculture in the midst of climate change. <i>Engineering Times,</i> 3, 3. AMH Phil., Inc., Quezon City, Philippines. <a href="http://www.amhphil.com/publications/the-engineering-times-newsletter/" title="amh">link</a>
+<br /><br />Soriano, M.A. (2013) Sustainable agriculture in the midst of climate change. <i>Engineering Times,</i> 3, 3. AMH Phil., Inc., Quezon City, Philippines. <a href="https://amhphil.com/engineering-times" title="amh">link</a>
 <br /><br />
 
 ### Media
@@ -72,7 +72,7 @@ Herath, S., Jiao, Y., Castro, P.P.M., Diwa, J., Soriano, M.A., Liang, L., Wang, 
 <br /><br />
 
 ### Service - Peer review
-I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Hydrological Processes,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Environmental Pollutants & Bioavailability,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
+I have reviewed manuscripts for *Water Resources Research,* *Journal of Hydrology,* *Hydrological Processes,* *Environmental Science: Processes & Impacts,* *Climatic Change,* *Climate Services,* *Regional Environmental Change,* *Chemosphere,* *Paddy & Water Environment,* *Environmental Pollutants & Bioavailability,* *Computers & Geosciences,* *Resources, Conservation & Recycling,* *Urban Water Journal,* *Environmental Research: Water,* and *Environmental Research Communications.* I provided peer feedback to manuscripts in preparation by graduate students and postdoctoral scholars across all scientific disciplines as a McDougal-Poorvu Writing Fellow at the Yale Poorvu Center's Graduate Writing Laboratory.
 <br /><br />
 
 ### Service - Editorships
