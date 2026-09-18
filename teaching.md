@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. My approaches span the range of lectures and laboratory-style classes, hands-on coding sessions, and more recently, remote teaching. I am also involved with extracurricular teaching through outreach, writing workshops, and language partnerships. I aspire to model excellence and inclusivity in my teaching practice inside and outside the classroom, and it is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for solving today's complex challenges.
+Through teaching, I aim to equip students with fundamental principles of scientific inquiry and transferable problem-solving skills. It is my hope that my teaching inspires students to reflect on how their unique identities, values, perspectives, and experiences are essential for addressing today's complex challenges.
 <br/><br/>
 
 ### National University of Singapore
